@@ -1,4 +1,5 @@
-### Hi there 👋
+![HelloThereHiThereGIF](https://github.com/markferritto/markferritto/assets/80026833/f3ff7ef7-1447-45b7-81ca-e4333cde5111)
+
 
 <!--
 **markferritto/markferritto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
